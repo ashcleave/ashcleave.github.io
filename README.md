@@ -1,6 +1,6 @@
 # <a href="https://ashcleave.github.io" target="_blank" >ashcleave.github.io</a>
 
-### Getting Jekyll running locally
+### Getting Jekyll running locally
 In the terminal:
 ```
 gem install bundler
